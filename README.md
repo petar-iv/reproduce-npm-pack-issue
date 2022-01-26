@@ -1,5 +1,7 @@
 # reproduce-npm-pack-issue
 
+Repo for issue https://github.com/npm/npm/issues/19287
+
 The issue can be reproduced with npm v5.5.1.
 Execute `npm install` and then `npm pack`.
 For convenience, the archive resulting from `npm pack` is part of the repository.
